@@ -14,7 +14,7 @@ Full-stack Backend Engineer specialized in **Microservices**, **LLMs/RAG systems
 
 **Backend**
 <p>
-  <img alt="Java" src="https://cdn.simpleicons.org/java/007396" width="6%"/>
+  <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="6%"/>
   <img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="6%"/>
   <img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="6%"/>
   <img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="6%"/>
