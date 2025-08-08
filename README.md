@@ -6,7 +6,7 @@
 </p>
 
 <a href="https://github.com/HoangHuy7/Chatbot_merge">
-<img src="keycloak_theme/alfinac/alfinac-keycloak-theme/login/resources/img/logo.png" width="13%" align="right"/>
+<img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="13%" align="right"/>
 </a>
 
 ## 👋 About Me
@@ -19,7 +19,7 @@ Full‑stack AI Engineer focused on LLMs/RAG, scalable backends, and practical D
 - Repo: `Chatbot_merge` (this repository)
 
 <a href="https://github.com/HoangHuy7/huysama-microservice">
-<img src="keycloak_theme/bee/alfresco-keycloak-theme/login/resources/img/alfresco-logo.svg" width="13%" align="right"/>
+<img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="right"/>
 </a>
 
 ## 🧩 Microservice Solo Project
