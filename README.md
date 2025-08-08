@@ -6,6 +6,7 @@
 </p>
 
 <a href="https://github.com/HoangHuy7/Chatbot_merge">
+<img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="left"/>
 <img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="13%" align="right"/>
 </a>
 
@@ -24,7 +25,7 @@ Full‑stack Backend Engineer focused on Microservice/LLMs/RAG, scalable backend
 - Repo: `Chatbot_merge` (this repository)
 
 <a href="https://github.com/HoangHuy7/huysama-microservice">
-<img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="right"/>
+
 </a>
 
 
