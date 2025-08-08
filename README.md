@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Full‑stack Backend Engineer focused on Microservice/LLMs/RAG, scalable backends, and practical DevOps. I design production‑ready AI systems with strong security and reliability.
+Full-stack Backend Engineer focused on Microservice/LLMs/RAG, scalable backends, and practical DevOps...
 
 ## 🧩 Microservice Solo Project
 - Modular microservices with Zero Trust security, SSO, RBAC, API Gateway, and CI/CD.
