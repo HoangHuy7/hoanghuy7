@@ -5,27 +5,18 @@
 <a href="https://github.com/HoangHuy7"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=HoangHuy7&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
 
-
 <img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="left"/>
 <img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="13%" align="right"/>
 
-<h2>👋 About Me</h2>
-
+### 👋 About Me
 Full-stack Backend Engineer focused on Microservice/LLMs/RAG, scalable backends, and practical DevOps...
 
-## 🧩 Microservice Solo Project
+### 🧩 Microservice Solo Project
 - Modular microservices with Zero Trust security, SSO, RBAC, API Gateway, and CI/CD.
 - Traefik/Pomerium gateway, Docker/K8s (Minikube), GitOps with Argo CD.
 - Repo: https://github.com/HoangHuy7/huysama-microservice
-- 
-## 🧠 AI‑Powered RAG Chatbot System
-- Production RAG backend with semantic search, knowledge graph, and multi‑format OCR pipeline.
+
+### 🧠 AI-Powered RAG Chatbot System
+- Production RAG backend with semantic search, knowledge graph, and multi-format OCR pipeline.
 - FastAPI + PostgreSQL(pgvector), Neo4j KG, Ollama embeddings, Gemini (rewrite/entities + HyDE), MinIO storage, Keycloak SSO.
 - Repo: `Chatbot_merge` (this repository)
-
-<a href="https://github.com/HoangHuy7/huysama-microservice">
-
-</a>
-
-
-
