@@ -11,8 +11,13 @@
 
 ## 👋 About Me
 
-Full‑stack AI Engineer focused on LLMs/RAG, scalable backends, and practical DevOps. I design production‑ready AI systems with strong security and reliability.
+Full‑stack Backend Engineer focused on Microservice/LLMs/RAG, scalable backends, and practical DevOps. I design production‑ready AI systems with strong security and reliability.
 
+## 🧩 Microservice Solo Project
+- Modular microservices with Zero Trust security, SSO, RBAC, API Gateway, and CI/CD.
+- Traefik/Pomerium gateway, Docker/K8s (Minikube), GitOps with Argo CD.
+- Repo: https://github.com/HoangHuy7/huysama-microservice
+- 
 ## 🧠 AI‑Powered RAG Chatbot System
 - Production RAG backend with semantic search, knowledge graph, and multi‑format OCR pipeline.
 - FastAPI + PostgreSQL(pgvector), Neo4j KG, Ollama embeddings, Gemini (rewrite/entities + HyDE), MinIO storage, Keycloak SSO.
@@ -22,15 +27,5 @@ Full‑stack AI Engineer focused on LLMs/RAG, scalable backends, and practical D
 <img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="right"/>
 </a>
 
-## 🧩 Microservice Solo Project
-- Modular microservices with Zero Trust security, SSO, RBAC, API Gateway, and CI/CD.
-- Traefik/Pomerium gateway, Docker/K8s (Minikube), GitOps with Argo CD.
-- Repo: https://github.com/HoangHuy7/huysama-microservice
-
-## 🧰 Toolbox
-- Python, Java, TypeScript · FastAPI, Spring Boot, React
-- PostgreSQL, pgvector, Neo4j, MinIO
-- Docker, Docker Compose, Kubernetes, Argo CD
-- Keycloak, JWT/OAuth2
 
 
