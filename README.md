@@ -5,10 +5,9 @@
 <a href="https://github.com/HoangHuy7"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=HoangHuy7&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
 
-<a href="https://github.com/HoangHuy7/Chatbot_merge">
+
 <img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="left"/>
 <img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="13%" align="right"/>
-</a>
 
 ## 👋 About Me
 
