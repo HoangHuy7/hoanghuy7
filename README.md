@@ -1,24 +1,43 @@
 <p align="center">
 <a href="https://github.com/HoangHuy7"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@HoangHuy7-181717?logo=github"/></a>
-<a href="https://github.com/HoangHuy7/Chatbot_merge"><img alt="RAG Chatbot" src="https://img.shields.io/badge/Project-RAG%20Chatbot-0b5fff?logo=fastapi&logoColor=white"/></a>
-<a href="https://github.com/HoangHuy7/huysama-microservice"><img alt="Microservices" src="https://img.shields.io/badge/Project-Microservices-2bbc8a?logo=spring&logoColor=white"/></a></br></br>
 <a href="https://github.com/HoangHuy7"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=HoangHuy7&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
 
-<img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="left"/>
-<img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="13%" align="right"/>
-
+---
 
 ### 👋 About Me
-Full-stack Backend Engineer focused on Microservice/LLMs/RAG, scalable backends, and practical DevOps...
-<br clear="all"/>
+Full-stack Backend Engineer specialized in **Microservices**, **LLMs/RAG systems**, and **DevOps** — building scalable, secure, and maintainable systems.
 
-### 🧩 Microservice Solo Project
-- Modular microservices with Zero Trust security, SSO, RBAC, API Gateway, and CI/CD.
-- Traefik/Pomerium gateway, Docker/K8s (Minikube), GitOps with Argo CD.
-- Repo: https://github.com/HoangHuy7/huysama-microservice
+---
 
-### 🧠 AI-Powered RAG Chatbot System
-- Production RAG backend with semantic search, knowledge graph, and multi-format OCR pipeline.
-- FastAPI + PostgreSQL(pgvector), Neo4j KG, Ollama embeddings, Gemini (rewrite/entities + HyDE), MinIO storage, Keycloak SSO.
-- Repo: `Chatbot_merge` (this repository)
+### 🛠 Skills & Technologies
+
+**Backend**
+<p>
+  <img alt="Java" src="https://cdn.simpleicons.org/java/007396" width="6%"/>
+  <img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="6%"/>
+  <img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="6%"/>
+  <img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="6%"/>
+</p>
+
+**Databases**
+<p>
+  <img alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/4169E1" width="6%"/>
+  <img alt="MySQL" src="https://cdn.simpleicons.org/mysql/4479A1" width="6%"/>
+  <img alt="Neo4j" src="https://cdn.simpleicons.org/neo4j/008CC1" width="6%"/>
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" width="6%"/>
+  <img alt="Kubernetes" src="https://cdn.simpleicons.org/kubernetes/326CE5" width="6%"/>
+  <img alt="GitHub Actions" src="https://cdn.simpleicons.org/githubactions/2088FF" width="6%"/>
+  <img alt="ArgoCD" src="https://cdn.simpleicons.org/argo/EF7B4D" width="6%"/>
+</p>
+
+**AI/ML**
+<p>
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2E8B57?logo=chainlink&logoColor=white" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white" />
+</p>
