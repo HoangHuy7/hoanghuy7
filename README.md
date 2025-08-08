@@ -7,6 +7,7 @@
 
 <img alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" width="13%" align="left"/>
 <img alt="FastAPI" src="https://cdn.simpleicons.org/fastapi/009688" width="13%" align="right"/>
+<br clear="all"/>
 
 ### 👋 About Me
 Full-stack Backend Engineer focused on Microservice/LLMs/RAG, scalable backends, and practical DevOps...
